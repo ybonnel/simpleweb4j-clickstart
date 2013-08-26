@@ -16,12 +16,6 @@
         }
         
     },
-    "databases": [
-        {
-            "type": "mysql",
-            "alias": "simpleweb4j"
-        }
-    ],
     "build-with-jenkins": {
         "template": {
             "type": "https://raw.github.com/ndeloof/simpleweb4j-clickstart/master/jenkins.xml",
